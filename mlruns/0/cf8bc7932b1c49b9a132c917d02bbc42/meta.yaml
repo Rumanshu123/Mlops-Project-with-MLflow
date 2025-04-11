@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/project/Mlops-Project-with-MLflow/mlruns/0/cf8bc7932b1c49b9a132c917d02bbc42/artifacts
+end_time: 1744357136471
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: cf8bc7932b1c49b9a132c917d02bbc42
+run_name: defiant-penguin-410
+run_uuid: cf8bc7932b1c49b9a132c917d02bbc42
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744357126320
+status: 3
+tags: []
+user_id: ACER
