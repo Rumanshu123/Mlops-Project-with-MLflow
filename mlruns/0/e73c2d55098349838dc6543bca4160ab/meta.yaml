@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/project/Mlops-Project-with-MLflow/mlruns/0/e73c2d55098349838dc6543bca4160ab/artifacts
+end_time: 1744384903352
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e73c2d55098349838dc6543bca4160ab
+run_name: redolent-swan-33
+run_uuid: e73c2d55098349838dc6543bca4160ab
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744384899105
+status: 3
+tags: []
+user_id: ACER

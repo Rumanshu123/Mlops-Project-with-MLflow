@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/project/Mlops-Project-with-MLflow/mlruns/0/ca4bd5e7dc704ae98adb5c24f74a811b/artifacts
+end_time: 1744384933314
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ca4bd5e7dc704ae98adb5c24f74a811b
+run_name: intelligent-deer-805
+run_uuid: ca4bd5e7dc704ae98adb5c24f74a811b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744384927995
+status: 3
+tags: []
+user_id: ACER

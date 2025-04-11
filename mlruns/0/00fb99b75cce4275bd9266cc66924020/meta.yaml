@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/project/Mlops-Project-with-MLflow/mlruns/0/00fb99b75cce4275bd9266cc66924020/artifacts
+end_time: 1744384927913
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 00fb99b75cce4275bd9266cc66924020
+run_name: redolent-turtle-517
+run_uuid: 00fb99b75cce4275bd9266cc66924020
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744384923160
+status: 3
+tags: []
+user_id: ACER

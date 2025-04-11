@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/project/Mlops-Project-with-MLflow/mlruns/0/05a56daf865f4dec8eaf255e407613ab/artifacts
+end_time: 1744384884989
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 05a56daf865f4dec8eaf255e407613ab
+run_name: capable-shrimp-196
+run_uuid: 05a56daf865f4dec8eaf255e407613ab
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744384878214
+status: 3
+tags: []
+user_id: ACER

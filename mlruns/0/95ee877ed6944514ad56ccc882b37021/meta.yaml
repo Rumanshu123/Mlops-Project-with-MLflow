@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/project/Mlops-Project-with-MLflow/mlruns/0/95ee877ed6944514ad56ccc882b37021/artifacts
+end_time: 1744384913521
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 95ee877ed6944514ad56ccc882b37021
+run_name: thoughtful-seal-49
+run_uuid: 95ee877ed6944514ad56ccc882b37021
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744384907783
+status: 3
+tags: []
+user_id: ACER
