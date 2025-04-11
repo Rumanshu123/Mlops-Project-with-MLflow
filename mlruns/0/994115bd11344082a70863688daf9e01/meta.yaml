@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/project/Mlops-Project-with-MLflow/mlruns/0/994115bd11344082a70863688daf9e01/artifacts
+end_time: 1744384923147
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 994115bd11344082a70863688daf9e01
+run_name: caring-vole-646
+run_uuid: 994115bd11344082a70863688daf9e01
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744384918278
+status: 3
+tags: []
+user_id: ACER

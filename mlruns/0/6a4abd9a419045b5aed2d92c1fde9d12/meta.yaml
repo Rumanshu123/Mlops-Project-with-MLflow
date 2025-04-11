@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/project/Mlops-Project-with-MLflow/mlruns/0/6a4abd9a419045b5aed2d92c1fde9d12/artifacts
+end_time: 1744384899100
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6a4abd9a419045b5aed2d92c1fde9d12
+run_name: shivering-bass-96
+run_uuid: 6a4abd9a419045b5aed2d92c1fde9d12
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744384894256
+status: 3
+tags: []
+user_id: ACER

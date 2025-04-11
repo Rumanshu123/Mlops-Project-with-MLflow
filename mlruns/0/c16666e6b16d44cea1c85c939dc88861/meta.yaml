@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/project/Mlops-Project-with-MLflow/mlruns/0/c16666e6b16d44cea1c85c939dc88861/artifacts
+end_time: 1744384894236
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c16666e6b16d44cea1c85c939dc88861
+run_name: enchanting-seal-419
+run_uuid: c16666e6b16d44cea1c85c939dc88861
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744384889727
+status: 3
+tags: []
+user_id: ACER

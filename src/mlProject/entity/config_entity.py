@@ -29,8 +29,13 @@ class ModelTrainerConfig:
     train_data_path: Path
     test_data_path: Path
     model_name: str
-    alpha: float
-    l1_ratio: float
+    # Remove direct alpha and l1_ratio
+    # alpha: float
+    # l1_ratio: float
+    alpha_min: float
+    alpha_max: float
+    l1_ratio_min: float
+    l1_ratio_max: float
     target_column: str
 
 

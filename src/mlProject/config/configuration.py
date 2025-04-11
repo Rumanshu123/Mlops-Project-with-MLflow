@@ -69,20 +69,21 @@ class ConfigurationManager:
         config = self.config.model_trainer
         params = self.params.ElasticNet
         schema =  self.schema.TARGET_COLUMN
-
         create_directories([config.root_dir])
-
         model_trainer_config = ModelTrainerConfig(
             root_dir=config.root_dir,
             train_data_path = config.train_data_path,
             test_data_path = config.test_data_path,
             model_name = config.model_name,
-            alpha = params.alpha,
-            l1_ratio = params.l1_ratio,
+        # Remove the direct assignment of alpha and l1_ratio
+        # alpha = params.alpha,
+        # l1_ratio = params.l1_ratio,
+            alpha_min = params.get("alpha_min"), # Fetch search space parameters
+            alpha_max = params.get("alpha_max"),
+            l1_ratio_min = params.get("l1_ratio_min"),
+            l1_ratio_max = params.get("l1_ratio_max"),
             target_column = schema.name
-            
-        )
-
+    )
         return model_trainer_config
     
 

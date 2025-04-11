@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/project/Mlops-Project-with-MLflow/mlruns/0/d8dca1898ac74b26829c1706b8c63028/artifacts
+end_time: 1744384907758
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d8dca1898ac74b26829c1706b8c63028
+run_name: sincere-cub-24
+run_uuid: d8dca1898ac74b26829c1706b8c63028
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744384903357
+status: 3
+tags: []
+user_id: ACER
